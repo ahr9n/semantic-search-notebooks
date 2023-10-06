@@ -16,6 +16,9 @@ It is a sentence-transformers model that maps sentences & paragraphs to a 768-di
 
 After installing requirements, we used it on a query text to compare the transformer's results with our sentence embedding model results. For the transformer, it took about 13 mins to load and get the answers, however, the answers were not as good as ours.
 
+### Give a try!
+Open the notebook that you want to work with. Change the url domain from `github.com` to `githubtocolab.com`. The notebook will open in Google Colab, and you can run online every cell respectively.
+
 ## :hatching\_chick: Contributors
 <table>
   <tr>
